@@ -79,8 +79,6 @@ R
 "infrastructure/docker-compose/.env,8/4/84825da1de32497b36ece2e7280bf9e7ea2fc807
 l
 <order-service/order-domain/order-application-service/pom.xml,7/8/788638a3f575d9e226f07937dfe43f5e87b6139f
-H
-customer-service/pom.xml,5/8/5828c3b58c65a5dabc2340b48a37b3e92462b9b0
 d
 4order-service/order-domain/order-domain-core/pom.xml,e/2/e2c9ec2a77daaaa98761010294a2cfad7cd6acdd
 ­
